@@ -16,3 +16,7 @@ There are some changes to the code since the last closed-source release:
 ## Attribution
 
 Most (if not all) icons are from the [Fugue Icons](http://p.yusukekamiyamane.com/) set.
+
+## Fork
+
+In this fork I will attempt to improve icon loading, since it takes a long time with games that have tons of achievements.
